@@ -1,16 +1,206 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ahmed Abouelwafa Mohamed</h1>
+<div class="markdown-heading" dir="auto"><h3 align="center" class="heading-element" dir="auto">Software Engineer | Full Stack (.NET & Angular) Developer | Building scalable apps</h3>
 
-<!--
-**AhmedAbouelwafa/AhmedAbouelwafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+  
+<path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div align="center">
+    <a href="https://github.com/AhmedAbouelwafa/AhmedAbouelwafa/stargazers">
+        <img src="https://img.shields.io/github/stars/AhmedAbouelwafa/AhmedAbouelwafa" alt="Stars Badge"/></a>
+    <a href="https://github.com/AhmedAbouelwafa/AhmedAbouelwafa/network/members">
+        <img src="https://img.shields.io/github/forks/AhmedAbouelwafa/AhmedAbouelwafa" alt="Forks Badge"/></a>
+  <a href="https://github.com/AhmedAbouelwafa/AhmedAbouelwafa/pulls">
+        <img src="https://img.shields.io/github/issues-pr/AhmedAbouelwafa/AhmedAbouelwafa?color=orange" alt="Pull Requests Badge"/></a>
+<!--     <a href="https://github.com/AhmedAbouelwafa/AhmedAbouelwafa/issues">
+        <img src="https://img.shields.io/github/issues/AhmedAbouelwafa/AhmedAbouelwafa?color=orange" alt="Issues Badge"/></a> -->
+    <a href="https://github.com/AhmedAbouelwafa/AhmedAbouelwafa/graphs/contributors">
+        <img src="https://img.shields.io/github/contributors/AhmedAbouelwafa/AhmedAbouelwafa?color=2b9348" alt="GitHub contributors"/></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.linkedin.com/in/ahmed-abou-el-wafa/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/-ahmed--abou--el--wafa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmed-abou-el-wafa/" alt="LinkedIn: ahmed-abou-el-wafa" style="max-width: 100%; height: auto;"></a>
+
+
+ <!--  [![committers.top rank](https://user-badge.committers.top/egypt/AhmedAbouelwafa.svg)](https://user-badge.committers.top/egypt/AhmedAbouelwafa) -->
+<!--     <a href="https://github.com/AhmedAbouelwafa/AhmedAbouelwafa/blob/master/LICENSE">
+        <img src="https://img.shields.io/github/license/AhmedAbouelwafa/AhmedAbouelwafa?color=2b9348" alt="License Badge"/></a> -->
+</div>
+<br>
+<p align="center" dir="auto">
+    <a target="_blank" rel="noopener noreferrer nofollow" 
+        href="https://komarev.com/ghpvc/?username=AhmedAbouelwafa&label=Profile%20views&color=0e75b6&style=flat">
+        <img src="https://komarev.com/ghpvc/?username=AhmedAbouelwafa&label=Profile%20views&color=0e75b6&style=flat" 
+            alt="AhmedAbouelwafa" 
+            data-canonical-src="https://komarev.com/ghpvc/?username=AhmedAbouelwafa&label=Profile%20views&color=0e75b6&style=flat" 
+            style="max-width: 100%; margin-right: 10px;"></a>
+    <a target="_blank" rel="noopener noreferrer nofollow" 
+        href="https://img.shields.io/github/followers/AhmedAbouelwafa?label=Followers">
+        <img src="https://img.shields.io/github/followers/AhmedAbouelwafa?label=Followers" 
+            alt="AhmedAbouelwafa" 
+            data-canonical-src="https://img.shields.io/github/followers/AhmedAbouelwafa?label=Followers" 
+            style="max-width: 100%;"></a>
+</p>
+<br>
+<p dir="auto"><animated-image data-catalyst="" style="float: right;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" data-target="animated-image.originalLink"><img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
+        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" target="_blank">
+          
+    
+<ul dir="auto">
+  <li>🏫 I am a <code>Computer Science student</code> at Luxor University</li>
+  <li>🔭 I'm currently working as a <code>Full Stack .NET Developer</code> at ITI.</li>
+  <li>🌱 I'm currently studying <code>Automated AI</code> and <code>Microservices Architecture</code>.</li>
+  <li>📫 How to reach me: <strong><a href="mailto:ahmedabouelwafa19@gmail.com"><code>ahmedabouelwafa19@gmail.com</code></a></strong></li>
+  <li>🤔 I'm currently open for a new <code>.NET Developer opportunity</code>. You can check my <a href="https://drive.google.com/file/d/1yRUIaankZYuSyaYLUt2knSu27o-hqiSX/view?usp=drive_link" target="_blank" rel="noopener noreferrer"><code><strong>Resume</strong></code></a></li>
+  <li>🤓 Always <code>learning new technologies</code> to stay updated with modern development practices.</li>
+  <li>⚡ Fun fact: <code>I love problem solving and gaming on Steam & Discord</code>!</li>
+</ul>
+<br>
+<div class="markdown-heading" dir="auto">
+  <h2 class="heading-element" dir="auto">☕ Support My Work</h2>
+
+  <a id="user-content--support-my-work" class="anchor" aria-label="Permalink: ☕ Support My Work" href="#-support-my-work">
+    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
+      <path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path>
+    </svg>
+  </a>
+</div>
+
+<a href="https://www.patreon.com/c/AhmedAbouelwafa" target="_blank" rel="noopener noreferrer" 
+   style="display: inline-block; text-decoration: none; border-radius: 10px; overflow: hidden; 
+          box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15); transition: transform 0.2s ease, box-shadow 0.2s ease;">
+ <img src="https://c5.patreon.com/external/logo/become_a_patron_button.png" 
+     alt="Become a Patron" 
+     style="display: block; height: 60px; width: auto; max-width: 100%; height: auto; border-radius: 10px;"></a>
+
+---
+
+<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">📩 Connect with me</h2><a id="user-content--connect-with-me" class="anchor" aria-label="Permalink: 📩 Connect with me" href="#-connect-with-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p align="center" dir="auto">
+<a href="https://linktr.ee/AhmedAbouelwafa" title="Linktree" onclick="window.open('https://linktr.ee/AhmedAbouelwafa', '_blank'); return false;">
+    <img src="https://img.shields.io/badge/Linktree-darkgreen.svg?style=for-the-badge&logo=linktree&logoColor=black" alt="Linktree" style="max-width: 100%; height: auto;"></a>
+
+<a href="https://www.linkedin.com/in/ahmed-abou-el-wafa/" title="LinkedIn" target="_blank" rel="noopener noreferrer">
+    <img src="https://camo.githubusercontent.com/0c59c81be6c6e981fbad69ea742692368b3fdc1018090a34cb7764dfea5a1a91/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465"
+        alt="LinkedIn"
+        data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"
+        style="max-width: 100%;"></a>
+  
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ahmedabouelwafa19@gmail.com" title="Gmail" target="_blank">
+    <img src="https://camo.githubusercontent.com/d450447694b79318c4a02da2e89e7cd6a86d883207c6fca0b51021a64af3f79e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676d61696c2d2532334630353033332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465"
+        alt="Gmail"
+        style="max-width: 100%; height: auto;"></a>
+
+
+<a href="https://api.whatsapp.com/send?phone=201006445854" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/whatsapp-9EF19D.svg?style=for-the-badge&logo=whatsapp&logoColor=#ffff" alt="WhatsApp Contact" style="max-width: 100%;"></a>
+
+<a href="https://www.facebook.com/Abouelwafa.eg/" target="_blank" title="Facebook" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Facebook" style="max-width: 100%;"></a>
+
+</p>
+<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">🛠 Languages and Tools</h2><a id="user-content--languages-and-tools" class="anchor" aria-label="Permalink: 🛠 Languages and Tools" href="#-languages-and-tools"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<br>
+<p align="center" dir="auto">
+    <a href="https://git-scm.com/" title="Git" target="_blank" rel="nofollow">
+        <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"
+            style="max-width: 100%;"></a>
+   <a href="https://github.com/AhmedAbouelwafa" target="_blank" title="GitHub" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"
+        alt="GitHub" style="max-width: 100%; height: auto;"></a>
+    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" title="CSharp" target="_blank" rel="nofollow">
+        <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"
+            alt="CSharp" style="max-width: 100%;"></a>
+    <a href="https://dotnet.microsoft.com/" title=".NET Core" target="_blank" rel="nofollow">
+        <img src="https://img.shields.io/badge/.NET%20Core-%235C2D91.svg?style=for-the-badge&logo=dotnet&logoColor=white"
+            alt=".NET Core" style="max-width: 100%;"></a>
+    <a href="https://dotnet.microsoft.com/apps/aspnet" title="ASP.NET Core" target="_blank" rel="nofollow">
+        <img src="https://img.shields.io/badge/ASP.NET%20Core-%23239120.svg?style=for-the-badge&logo=aspnet&logoColor=white"
+            alt="ASP.NET Core" style="max-width: 100%;"></a>
+    <a href="https://angular.io/" title="Angular" target="_blank" rel="nofollow">
+        <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"
+            alt="Angular" style="max-width: 100%;"></a>
+    <a href="https://www.typescriptlang.org/" title="TypeScript" target="_blank" rel="nofollow">
+        <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"
+            alt="TypeScript" style="max-width: 100%;"></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript" target="_blank" rel="nofollow">
+        <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
+            alt="JavaScript" style="max-width: 100%;"></a>
+    <a href="https://www.w3.org/TR/html5/" title="HTML5" target="_blank" rel="nofollow">
+        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
+            alt="HTML5" style="max-width: 100%;"></a>
+    <a href="https://www.w3.org/Style/CSS/" title="CSS3" target="_blank" rel="nofollow">
+        <img src="https://img.shields.io/badge/css3-%23157122.svg?style=for-the-badge&logo=css3&logoColor=white"
+            alt="CSS3" style="max-width: 100%;"></a>
+    <a href="https://www.microsoft.com/en-us/sql-server" title="SQL Server" target="_blank" rel="nofollow">
+        <img src="https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"
+            alt="SQL Server" style="max-width: 100%;"></a>
+    <a href="https://getbootstrap.com/" title="Bootstrap" target="_blank" rel="nofollow">
+        <img src="https://img.shields.io/badge/bootstrap-%23752B8C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
+            alt="Bootstrap" style="max-width: 100%;"></a>
+    <a href="https://tailwindcss.com/" title="Tailwind CSS" target="_blank" rel="nofollow">
+        <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"
+            alt="Tailwind CSS" style="max-width: 100%;"></a>
+  <a href="https://jquery.com/" title="jQuery" target="_blank" rel="nofollow">
+    <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"
+        alt="jQuery" style="max-width: 100%;"></a>
+    <a href="https://www.rabbitmq.com/" title="RabbitMQ" target="_blank" rel="nofollow">
+        <img src="https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white"
+            alt="RabbitMQ" style="max-width: 100%;"></a>
+    <a href="https://hangfire.io/" title="HangFire" target="_blank" rel="nofollow">
+        <img src="https://img.shields.io/badge/HangFire-%23FF6C00.svg?style=for-the-badge&logo=hangfire&logoColor=white"
+            alt="HangFire" style="max-width: 100%;"></a>
+<a href="https://code.visualstudio.com/" title="Visual Studio Code" target="_blank" rel="nofollow">
+    <img src="https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white"
+        alt="Visual Studio Code" style="max-width: 100%;"></a>
+  <a href="https://visualstudio.microsoft.com/" title="Visual Studio" target="_blank" rel="nofollow">
+    <img src="https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white"
+        alt="Visual Studio" style="max-width: 100%;"></a>
+</p>
+
+<div class="markdown-heading" dir="auto">
+  <h2 class="heading-element" dir="auto">💼 Professional Summary</h2>
+</div>
+
+I'm specialized in Full Stack .NET Developer with solid foundations in C#, ASP.NET Core, Angular, and SQL Server. Experienced in developing full-stack applications and applying Clean Architecture, SOLID principles, and CQRS to deliver maintainable solutions. I aim to contribute to building scalable enterprise systems, and expand expertise in Microservices, RabbitMQ, HangFire and modern development practices.
+
+<div class="markdown-heading" dir="auto">
+ <h2>
+  <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="35"> 
+  Github Stats
+</h2>
+
+<img 
+  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedAbouelwafa&theme=monokai" 
+  alt="Profile Details" width="100%">
+
+<br>
+
+<p align="center">
+  <img 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AhmedAbouelwafa&theme=monokai" 
+    alt="Repos Per Language" width="24%">
+  <img 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AhmedAbouelwafa&theme=monokai" 
+    alt="Most Commit Language" width="24%">
+  <img 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AhmedAbouelwafa&theme=monokai" 
+    alt="Stats" width="24%">
+  <img 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AhmedAbouelwafa&theme=monokai&utcOffset=8" 
+    alt="Productive Time" width="24%">
+</p>
+<br>
+<div>
+  <p dir="auto" style="font-size: 24px; font-weight: bold;"><b>⚠ Note:</b> The <code>Top Languages</code> section is merely a representation of the languages used in my public repositories and does not indicate my proficiency or experience level.</p>
+</div>
+<br>
+<br>
+<p align="center">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
+  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
+  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
+  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
+  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+</p>
+
+<br>
