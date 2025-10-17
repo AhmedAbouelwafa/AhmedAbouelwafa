@@ -47,7 +47,7 @@
     
 <ul dir="auto">
   <li>🏫 I am a <code>Computer Science student</code> at Luxor University</li>
-  <li>🔭 I'm currently working as a <code>Full Stack .NET Developer</code> at ITI.</li>
+  <li>🔭 I'm currently working as a <code>Full Stack .NET Instructor</code> at AMIT Learning</li>
   <li>🌱 I'm currently studying <code>Automated AI</code> and <code>Microservices Architecture</code>.</li>
   <li>📫 How to reach me: <strong><a href="mailto:ahmedabouelwafa19@gmail.com"><code>ahmedabouelwafa19@gmail.com</code></a></strong></li>
   <li>🤔 I'm currently open for a new <code>.NET Developer opportunity</code>. You can check my <a href="https://drive.google.com/file/d/1yRUIaankZYuSyaYLUt2knSu27o-hqiSX/view?usp=drive_link" target="_blank" rel="noopener noreferrer"><code><strong>Resume</strong></code></a></li>
